@@ -2,12 +2,12 @@
 lab:
   title: Merancang Laporan di Power BI Desktop, Bagian 1
   module: Module 7 - Create Reports
-ms.openlocfilehash: 952409822e622f744edcaef603bea5058670c3e8
-ms.sourcegitcommit: 40a8c8608a0adde23300c2b6833db02193f36dfe
+ms.openlocfilehash: 426892501790aaecbe21ed2e7f9161c4490c9e3b
+ms.sourcegitcommit: 9ea1e7e21b9b3c718030c94b1693d153a2010ec7
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/04/2022
-ms.locfileid: "146072495"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "146650216"
 ---
 # <a name="design-a-report-in-power-bi-desktop-part-1"></a>**Merancang Laporan di Power BI Desktop, Bagian 1**
 
@@ -23,7 +23,7 @@ Di lab ini Anda mempelajari cara:
 
 ### <a name="lab-story"></a>**Cerita lab**
 
-Lab ini adalah salah satu dari sekian banyak lab yang dirancang sebagai cerita lengkap, mulai dari persiapan data hingga publikasi sebagai laporan dan dasbor. Anda dapat menyelesaikan lab dalam urutan apa pun. Namun, jika Anda ingin mengerjakan beberapa lab sekaligus, untuk 10 lab pertama, sebaiknya Anda mengerjakannya dengan urutan berikut:
+Lab ini adalah salah satu dari sekian banyak lab yang dirancang sebagai cerita lengkap, mulai dari persiapan data hingga publikasi sebagai laporan dan dasbor. Anda dapat menyelesaikan lab dalam urutan apa pun. Namun, jika Anda ingin mengerjakan beberapa lab sekaligus, sebaiknya Anda mengerjakannya dengan urutan berikut:
 
 1. Mempersiapkan Data di Power BI Desktop
 

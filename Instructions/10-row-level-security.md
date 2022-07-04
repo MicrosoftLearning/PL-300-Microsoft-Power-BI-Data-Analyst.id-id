@@ -2,28 +2,27 @@
 lab:
   title: Terapkan Keamanan Tingkat Baris
   module: Module 12 - Row-Level Security
-ms.openlocfilehash: 6ccc19e9835dca06ec613e386c82fb0270a28ed5
-ms.sourcegitcommit: 51f448b208842f1333cb683b7775618edb41c126
+ms.openlocfilehash: f47cc7c54428589aaa9d6b37afd9ee4d11c5884e
+ms.sourcegitcommit: 9ea1e7e21b9b3c718030c94b1693d153a2010ec7
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/09/2022
-ms.locfileid: "145197606"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "146650108"
 ---
 # <a name="enforce-row-level-security"></a>**Menerapkan Keamanan Tingkat Baris**
 
 **Perkiraan waktu untuk menyelesaikan lab adalah 45 menit**
 
-Di lab ini Anda akan membuat hubungan banyak ke banyak antara tabel **Penjual** dan tabel **Penjualan**. Anda juga akan menerapkan keamanan tingkat baris untuk memastikan bahwa staf penjualan hanya dapat menganalisis data penjualan untuk wilayah yang ditetapkan untuk mereka.
+Di lab ini, Anda akan menerapkan keamanan tingkat baris untuk memastikan bahwa staf penjualan hanya dapat menganalisis data penjualan untuk wilayah yang ditetapkan untuk mereka.
 
 Di lab ini Anda mempelajari cara:
 
-- Mengonfigurasi hubungan banyak-ke-banyak
 
 - Menerapkan keamanan tingkat baris
 
 ### <a name="lab-story"></a>**Cerita lab**
 
-Lab ini adalah salah satu dari sekian banyak lab yang dirancang sebagai cerita lengkap, mulai dari persiapan data hingga publikasi sebagai laporan dan dasbor. Anda dapat menyelesaikan lab dalam urutan apa pun. Namun, jika Anda ingin mengerjakan beberapa lab sekaligus, untuk 10 lab pertama, sebaiknya Anda mengerjakannya dengan urutan berikut:
+Lab ini adalah salah satu dari sekian banyak lab yang dirancang sebagai cerita lengkap, mulai dari persiapan data hingga publikasi sebagai laporan dan dasbor. Anda dapat menyelesaikan lab dalam urutan apa pun. Namun, jika Anda ingin mengerjakan beberapa lab sekaligus, sebaiknya Anda mengerjakannya dengan urutan berikut:
 
 1. Mempersiapkan Data di Power BI Desktop
 
