@@ -2,12 +2,12 @@
 lab:
   title: Membuat Perhitungan DAX di Power BI Desktop, Bagian 1
   module: Module 5 - Create Model Calculations using DAX in Power BI
-ms.openlocfilehash: 3bbdf3dfb4b302a9b3c28005976ff34764c1c542
-ms.sourcegitcommit: d88b7941fe3805f0bc2979ea864c5483ec289c75
+ms.openlocfilehash: 743fdd6a85236a40008fcdb3b466c61c617a55fb
+ms.sourcegitcommit: 9ea1e7e21b9b3c718030c94b1693d153a2010ec7
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/04/2022
-ms.locfileid: "146071703"
+ms.lasthandoff: 07/07/2022
+ms.locfileid: "147015338"
 ---
 # <a name="create-dax-calculations-in-power-bi-desktop-part-1"></a>**Membuat Perhitungan DAX di Power BI Desktop, Bagian 1**
 
@@ -25,7 +25,7 @@ Di lab ini Anda mempelajari cara:
 
 ### <a name="lab-story"></a>**Cerita lab**
 
-Lab ini adalah salah satu dari sekian banyak lab yang dirancang sebagai cerita lengkap, mulai dari persiapan data hingga publikasi sebagai laporan dan dasbor. Anda dapat menyelesaikan lab dalam urutan apa pun. Namun, jika Anda ingin mengerjakan beberapa lab sekaligus, untuk 10 lab pertama, sebaiknya Anda mengerjakannya dengan urutan berikut:
+Lab ini adalah salah satu dari sekian banyak lab yang dirancang sebagai cerita lengkap, mulai dari persiapan data hingga publikasi sebagai laporan dan dasbor. Anda dapat menyelesaikan lab dalam urutan apa pun. Namun, jika Anda ingin mengerjakan beberapa lab sekaligus, sebaiknya Anda mengerjakannya dengan urutan berikut:
 
 1. Mempersiapkan Data di Power BI Desktop
 

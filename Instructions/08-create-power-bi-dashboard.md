@@ -2,12 +2,12 @@
 lab:
   title: Buat Dasbor Power BI
   module: Module 8 - Create Dashboards
-ms.openlocfilehash: 2ddb086b004fca3fa322e10570f9163342514808
-ms.sourcegitcommit: f09183b2093a7f8de629f89b54d70bcad85598b6
+ms.openlocfilehash: 0f8abb8670c71f5063dc28032daa321bf4b742f9
+ms.sourcegitcommit: 9ea1e7e21b9b3c718030c94b1693d153a2010ec7
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/07/2022
-ms.locfileid: "146109911"
+ms.lasthandoff: 07/07/2022
+ms.locfileid: "147015356"
 ---
 # <a name="create-a-power-bi-dashboard"></a>**Membuat Dasbor Power BI**
 
@@ -23,7 +23,7 @@ Di lab ini Anda mempelajari cara:
 
 ### <a name="lab-story"></a>**Cerita lab**
 
-Lab ini adalah salah satu dari sekian banyak lab yang dirancang sebagai cerita lengkap, mulai dari persiapan data hingga publikasi sebagai laporan dan dasbor. Anda dapat menyelesaikan lab dalam urutan apa pun. Namun, jika Anda ingin mengerjakan beberapa lab sekaligus, untuk 10 lab pertama, sebaiknya Anda mengerjakannya dengan urutan berikut:
+Lab ini adalah salah satu dari sekian banyak lab yang dirancang sebagai cerita lengkap, mulai dari persiapan data hingga publikasi sebagai laporan dan dasbor. Anda dapat menyelesaikan lab dalam urutan apa pun. Namun, jika Anda ingin mengerjakan beberapa lab sekaligus, sebaiknya Anda mengerjakannya dengan urutan berikut:
 
 1. Mempersiapkan Data di Power BI Desktop
 

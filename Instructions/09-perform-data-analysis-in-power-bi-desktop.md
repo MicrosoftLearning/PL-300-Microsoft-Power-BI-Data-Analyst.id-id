@@ -2,12 +2,12 @@
 lab:
   title: Menganalisis Data di Power BI Desktop
   module: Module 9 - Identify Patterns and Trends
-ms.openlocfilehash: e58af011b5603e4cd6e5def7c4353156fc67c879
-ms.sourcegitcommit: 6853b027da7f5e739951c3eef54f4cd458854c66
+ms.openlocfilehash: 42ec8ac1a9fd160fe2181ae8d966d85d04b9b82d
+ms.sourcegitcommit: 9ea1e7e21b9b3c718030c94b1693d153a2010ec7
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/12/2022
-ms.locfileid: "146274801"
+ms.lasthandoff: 07/07/2022
+ms.locfileid: "147015329"
 ---
 # <a name="perform-data-analysis-in-power-bi-desktop"></a>**Menganalisis Data di Power BI Desktop**
 
@@ -25,7 +25,7 @@ Di lab ini Anda mempelajari cara:
 
 ### <a name="lab-story"></a>**Cerita lab**
 
-Lab ini adalah salah satu dari sekian banyak lab yang dirancang sebagai cerita lengkap, mulai dari persiapan data hingga publikasi sebagai laporan dan dasbor. Anda dapat menyelesaikan lab dalam urutan apa pun. Namun, jika Anda ingin mengerjakan beberapa lab sekaligus, untuk 10 lab pertama, sebaiknya Anda mengerjakannya dengan urutan berikut:
+Lab ini adalah salah satu dari sekian banyak lab yang dirancang sebagai cerita lengkap, mulai dari persiapan data hingga publikasi sebagai laporan dan dasbor. Anda dapat menyelesaikan lab dalam urutan apa pun. Namun, jika Anda ingin mengerjakan beberapa lab sekaligus, sebaiknya Anda mengerjakannya dengan urutan berikut:
 
 1. Mempersiapkan Data di Power BI Desktop
 
